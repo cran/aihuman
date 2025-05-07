@@ -1,11 +1,11 @@
-024f6c7e74cb9a37a214a3de1d78fd04 *DESCRIPTION
+1f5c238cfdac6c487aff2c61c0f0012f *DESCRIPTION
 96afe5beea39c17e12a0b7f512add5aa *NAMESPACE
-e0689bf19cb9dd91dc00ff73e6a3e7a6 *NEWS.md
+63d2b7969d05852cc3a18908f56e88f2 *NEWS.md
 5d05bc0471d642e77cb545ca2d1e6261 *R/RcppExports.R
 8cc67a2185da629e3875612715713f73 *R/ability_agreement.R
 0157a80d0ac2e727bd46da05f6a42f45 *R/ability_ai.R
-e741cb6aaa01f06200b95f717a0a879c *R/ability_compute_bounds.R
-def1ed42220eb910dfed60a5cbcf1e58 *R/ability_compute_nuisance_functions.R
+905d549a0f61dd45da94f8818574dde5 *R/ability_compute_bounds.R
+7b5db944f5dc1157984d515fe4042ca6 *R/ability_compute_nuisance_functions.R
 57fef7b93eb859ea8f4873ecd79637a1 *R/ability_compute_stats.R
 f6ba9b09fb4c5184e4673d2946a41627 *R/ability_human.R
 2205e16b92c23e1e759187774b9c466f *R/ability_human_override.R
@@ -25,8 +25,8 @@ ad26c5fd28a34c9d1a6cbcf12d25af19 *R/plot_optimaldecision.R
 0537b4e827b81eaa00fea48d47fd2759 *R/plot_utility.R
 644f4b1a04ae255525797a28426c30af *R/sysdata.rda
 fe254fcefca1e88f63a5880f2e868ebc *README.md
-32c91b6c6624b083a97ee318420c7584 *build/partial.rdb
-065b6487a2b82e15802e1cc4702952c1 *build/vignette.rds
+8f4f5926ee98fa9fec5c12943eb16177 *build/partial.rdb
+b1d9bd552b1b60c9bb69ff68ec77f5e8 *build/vignette.rds
 0e0f7962a7e02f79f05a85c4ae936939 *data/FTAdata.rda
 805643b15443d9d3fbbfe02062138747 *data/HearingDate.rda
 44eeea2480d7045ed1eb18b48cc13bce *data/NCAdata.rda

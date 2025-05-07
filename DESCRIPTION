@@ -2,8 +2,8 @@ Package: aihuman
 Type: Package
 Title: Experimental Evaluation of Algorithm-Assisted Human
         Decision-Making
-Version: 1.0.0
-Date: 2024-12-23
+Version: 1.0.1
+Date: 2025-5-2
 Authors@R: c(
     person("Sooahn", "Shin", , "sooahnshin@g.harvard.edu", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0001-6213-2197")),
@@ -22,20 +22,20 @@ License: GPL (>= 2)
 URL: https://github.com/sooahnshin/aihuman
 BugReports: https://github.com/sooahnshin/aihuman/issues
 Encoding: UTF-8
-RoxygenNote: 7.3.1
+RoxygenNote: 7.3.2
 Imports: Rcpp, coda, stats, magrittr, purrr, abind, foreach, parallel,
         doParallel, ggplot2, dplyr, tidyr, metR, MASS, GLMMadaptive,
         gbm, tidyselect, stringr, forcats
 LinkingTo: Rcpp, RcppArmadillo, RcppEigen
-Depends: R (>= 2.10)
+Depends: R (>= 4.1.0)
 Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
 LazyData: true
 NeedsCompilation: yes
-Packaged: 2025-01-09 12:05:05 UTC; sooahnshin
-Author: Sooahn Shin [aut, cre] (<https://orcid.org/0000-0001-6213-2197>),
+Packaged: 2025-05-07 14:59:50 UTC; sooahnshin
+Author: Sooahn Shin [aut, cre] (ORCID: <https://orcid.org/0000-0001-6213-2197>),
   Zhichao Jiang [aut],
   Kosuke Imai [aut]
 Maintainer: Sooahn Shin <sooahnshin@g.harvard.edu>
 Repository: CRAN
-Date/Publication: 2025-01-09 12:40:02 UTC
+Date/Publication: 2025-05-07 15:20:02 UTC
